@@ -4,14 +4,15 @@ The project involves detection of Human emotions from real time video streams, e
 The model is trained with the help of `keras` sequential model, by using three sets of training layers an percentage accuracy obtained of around 70%. The model is trained in around 50 epochs(pass) each containing around 448 files to train.<br><br>
 The model we train is stored with the help of a `JSON` file and a `h5` file(for storing the weights) which is then restored to be compared to the Captured face and used for the emotion detection.<br>
 The Datasets used are:
-https://www.kaggle.com/datasets/msambare/fer2013
-
+https://www.kaggle.com/datasets/msambare/fer2013 <br><br>
+The Model is deployed in backend at `App.py` file and html file.
 ## Tools and Libraries used
 1. `cv2`
 2. `Keras models`
 3. `Keras layers`
 4. `keras image generator`
 5. `numpy`
+6. `Flask`
 
 ## Demo
 <img src="https://github.com/user-attachments/assets/363d58fa-d833-4982-82be-be501abc1ebe" width=700 height=400>
