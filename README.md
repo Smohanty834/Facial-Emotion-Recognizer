@@ -7,7 +7,7 @@ The Datasets used are:
 https://www.kaggle.com/datasets/msambare/fer2013 <br><br>
 The Model is deployed in backend at `App.py` file and html file.<br>
 The model Weights can be downloaded from here :
-https://drive.google.com/file/d/1QFTmQTc3kcW15CMa90rxRe0LTuS8wdd4/view?usp=drive_link
+https://drive.google.com/file/d/1ZZy0DMrG-3gnkfBuwF0tuFVfm4APy85v/view?usp=sharing
 ## Tools and Libraries used
 1. `cv2`
 2. `Keras models`
