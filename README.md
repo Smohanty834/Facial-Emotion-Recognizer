@@ -5,7 +5,9 @@ The model is trained with the help of `keras` sequential model, by using three s
 The model we train is stored with the help of a `JSON` file and a `h5` file(for storing the weights) which is then restored to be compared to the Captured face and used for the emotion detection.<br>
 The Datasets used are:
 https://www.kaggle.com/datasets/msambare/fer2013 <br><br>
-The Model is deployed in backend at `App.py` file and html file.
+The Model is deployed in backend at `App.py` file and html file.<br>
+The model Weights can be downloaded from here :
+https://drive.google.com/file/d/1QFTmQTc3kcW15CMa90rxRe0LTuS8wdd4/view?usp=drive_link
 ## Tools and Libraries used
 1. `cv2`
 2. `Keras models`
